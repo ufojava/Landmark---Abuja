@@ -13,6 +13,8 @@
 		03CE778A2376B60B00429CB3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03CE77892376B60B00429CB3 /* Assets.xcassets */; };
 		03CE778D2376B60B00429CB3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03CE778C2376B60B00429CB3 /* Preview Assets.xcassets */; };
 		03CE77902376B60B00429CB3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03CE778E2376B60B00429CB3 /* LaunchScreen.storyboard */; };
+		03CE77982376C0AC00429CB3 /* LandmarkImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03CE77972376C0AC00429CB3 /* LandmarkImage.swift */; };
+		03CE779A2376C41C00429CB3 /* LandmarkMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03CE77992376C41C00429CB3 /* LandmarkMap.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		03CE778C2376B60B00429CB3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		03CE778F2376B60B00429CB3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		03CE77912376B60B00429CB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		03CE77972376C0AC00429CB3 /* LandmarkImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkImage.swift; sourceTree = "<group>"; };
+		03CE77992376C41C00429CB3 /* LandmarkMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkMap.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				03CE77832376B60900429CB3 /* AppDelegate.swift */,
 				03CE77852376B60900429CB3 /* SceneDelegate.swift */,
 				03CE77872376B60900429CB3 /* ContentView.swift */,
+				03CE77972376C0AC00429CB3 /* LandmarkImage.swift */,
+				03CE77992376C41C00429CB3 /* LandmarkMap.swift */,
 				03CE77892376B60B00429CB3 /* Assets.xcassets */,
 				03CE778E2376B60B00429CB3 /* LaunchScreen.storyboard */,
 				03CE77912376B60B00429CB3 /* Info.plist */,
@@ -149,6 +155,8 @@
 				03CE77842376B60900429CB3 /* AppDelegate.swift in Sources */,
 				03CE77862376B60900429CB3 /* SceneDelegate.swift in Sources */,
 				03CE77882376B60900429CB3 /* ContentView.swift in Sources */,
+				03CE77982376C0AC00429CB3 /* LandmarkImage.swift in Sources */,
+				03CE779A2376C41C00429CB3 /* LandmarkMap.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
